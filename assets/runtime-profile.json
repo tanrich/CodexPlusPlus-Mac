@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "runtime_archive_version": "0.0.16/20260915001755-492f19756c31",
+  "platform": "darwin",
+  "arch": "arm64",
+  "files": {
+    "manifest.json": "2c23de075a9dfd4e257561d41052b733a3cbb0e020e6fea7738913a72d3e869f",
+    "bin/node": "4036f094d5b6596a0dd4bdeb6a060d9b29e46b4e67813a94dc6cbc06e670f00a",
+    "bin/node_repl": "91ac1d111d483c985b55e41a6944383ac1aa728f1c3350bdf48f73da72390c02",
+    "lib/node_modules/@oai/browser-desktop/package.json": "a7bfc13a4f9a8a22fd4a275adedf352e5f10ea57f8259301b905c3e997bc3b63",
+    "lib/node_modules/@oai/browser-desktop/scripts/browser-service.mjs": "fa354758746c6d4569a3d63474246ba64dcfb9a3f2572927218afa281cb281c3",
+    "lib/node_modules/@oai/cua-repl/bin/cua-repl.mjs": "992174a5e637645aeb444adfdb1bae688e997bb84d7db07532f68e358e60f278",
+    "lib/node_modules/@oai/cua-repl/dist/lib/js/oai_js_cua_repl/src/launch.js": "39e0fd44affaa7b8faeb7788410e1ecda5091d7f7d61a9641633f02b62182f69"
+  },
+  "binding": {
+    "start": 1688732,
+    "end": 1688734,
+    "policy": "NO",
+    "metadata": "qe",
+    "contractSha": "5bf64da3b8386af46a6fb2c2d8829a507130ba9896237a813b8e04c4ce8eb515"
+  },
+  "helper_sha256": "4665de5813c135dcc9aeee7e8deb598c712068d0d770af250c3ba38066cd0822",
+  "upstream_commit": "f55bb64663ba5024ab434017bb6212a0fd9f4bb3"
+}

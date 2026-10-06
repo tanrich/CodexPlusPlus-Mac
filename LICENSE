@@ -1,27 +1,3 @@
-CodexPlusPlus-Mac
-SPDX-License-Identifier: AGPL-3.0-only
-
-Original project-authored work:
-Copyright (C) 2026 tanrich <tanrich@foxmail.com>
-
-Unmodified source from Codex++ (BigPizzaV3/CodexPlusPlus):
-Copyright (C) 2026 BigPizzaV3
-Upstream commit: f55bb64663ba5024ab434017bb6212a0fd9f4bb3
-Upstream source: https://github.com/BigPizzaV3/CodexPlusPlus/tree/f55bb64663ba5024ab434017bb6212a0fd9f4bb3
-Upstream helper: https://github.com/BigPizzaV3/CodexPlusPlus/blob/f55bb64663ba5024ab434017bb6212a0fd9f4bb3/assets/native-browser/require-identification.mjs
-
-CodexPlusPlus-Mac is licensed under the GNU Affero General Public License,
-version 3 only (AGPL-3.0-only). This version-only grant applies to the
-project-authored work; the upstream helper retains its upstream
-AGPL-3.0-only license and copyright. See THIRD_PARTY_NOTICES.md.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-The complete upstream license document follows verbatim. Its illustrative
-"How to Apply" template does not change this project's version-only grant.
-
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
